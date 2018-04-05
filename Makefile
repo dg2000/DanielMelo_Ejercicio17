@@ -1,6 +1,8 @@
-hola.txt: album
+
+ksjdhfjkd:
+	c++ album.cpp -o album
 	./album
 
-album: album.cpp
-	c++ album.cpp -o album
+	c++ album2.cpp -o album2
+	./album2
 
